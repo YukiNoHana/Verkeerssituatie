@@ -1,0 +1,20 @@
+# ninja log v5
+0	143	1645713090311126872	CMakeFiles/ttt.dir/src/TicTacToe.cpp.o	4d56bd208543a0db
+352	476	1645713090655120964	ttt	fe5ab1aae46e351
+1	352	1645713090535123025	CMakeFiles/ttt.dir/src/TicTacToeMain.cpp.o	50a7dac7ec03d718
+0	25	1645713502112912911	build.ninja	f635c405261e6b3a
+0	965	1645713114606713292	CMakeFiles/ttt_debug.dir/src/TicTacToeTests.cpp.o	7e20f1cd10748e1e
+0	93	1645713113734728007	CMakeFiles/ttt_debug.dir/src/TicTacToe.cpp.o	f2e0eba11f6df08f
+965	1214	1645713114850709176	ttt_debug	63d23e3b747601ec
+10	402	1646312727193536124	CMakeFiles/ttt_debug.dir/src/TicTacToe.cpp.o	f2e0eba11f6df08f
+13	420	1646312727201536445	CMakeFiles/ttt.dir/src/TicTacToe.cpp.o	4d56bd208543a0db
+402	2172	1646312728957604601	CMakeFiles/ttt.dir/src/TicTacToeMain.cpp.o	50a7dac7ec03d718
+420	2269	1646312729073608806	CMakeFiles/ttt.dir/src/Largest.cpp.o	89ece7fa94558190
+2269	2773	1646312729569626334	ttt	86f5f8e8d71c073b
+11	3388	1646312730185647683	CMakeFiles/ttt_debug.dir/src/TicTacToeTests.cpp.o	7e20f1cd10748e1e
+3388	3672	1646312730465656937	ttt_debug	63d23e3b747601ec
+2	1542	1646313359973792218	CMakeFiles/ttt_debug.dir/src/TicTacToe.cpp.o	f2e0eba11f6df08f
+3	2425	1646313360869769452	CMakeFiles/ttt_debug.dir/src/TicTacToeTests.cpp.o	7e20f1cd10748e1e
+2425	2836	1646313361285758874	ttt_debug	63d23e3b747601ec
+1	573	1646314169097782618	CMakeFiles/ttt.dir/src/TicTacToeMain.cpp.o	50a7dac7ec03d718
+1	706	1646314169229779488	CMakeFiles/ttt.dir/src/TicTacToe.cpp.o	4d56bd208543a0db
