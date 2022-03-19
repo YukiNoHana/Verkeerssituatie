@@ -10,9 +10,9 @@ voertuiggenerator::~voertuiggenerator() {
 
 }
 
-std::int getFrequentie() const {
+int getFrequentie() const {
     return frequentie;
 }
-void setFrequentie(std::int freq) {
+void setFrequentie(int freq) {
     frequentie = freq;
 }

@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<VERKEERSSITUATIE2>
+    <BAAN>
+        <naam>SecondaryRoad</naam>
+        <lengte>600</lengte>
+    </BAAN>
+    <BAAN>
+        <naam>ThirdTypeOfRoad</naam>
+        <lengte>500</lengte>
+    </BAAN>
+    <VERKEERSLICHT>
+        <baan>SecondaryRoad</baan>
+        <positie>400</positie>
+        <cyclus>30</cyclus>
+    </VERKEERSLICHT>
+    <VERKEERSLICHT>
+        <baan>ThirdTypeOfRoad</baan>
+        <positie>200</positie>
+        <cyclus>10</cyclus>
+    </VERKEERSLICHT>
+    <VOERTUIG>
+        <baan>SecondaryRoad</baan>
+        <positie>30</positie>
+    </VOERTUIG>
+    <VOERTUIG>
+        <baan>SecondaryRoad</baan>
+        <positie>40</positie>
+    </VOERTUIG>
+</VERKEERSSITUATIE2>

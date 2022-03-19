@@ -18,9 +18,12 @@ void Voertuig::setPositie(int pos) {
     positie = pos;
 }
 
-const std::string Voertuig::voiture() const{
-    Baan road;
-    std::string voertuigje;
-    voertuigje += road.getNaam();
-    return voertuigje;
+const std::string &Voertuig::getBaan() const {
+    return baan;
 }
+
+void Voertuig::setBaan(const std::string &baan) {
+    Voertuig::baan = baan;
+}
+
+//Gebruik maken van cout om te printen, je kan een integer ook printen

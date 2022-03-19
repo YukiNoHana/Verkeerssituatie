@@ -21,6 +21,8 @@ public:
     int getLengte() const;
     void setLengte(int lol2);
 
+    bool isConsistent();
+
 
     virtual ~Baan();
 

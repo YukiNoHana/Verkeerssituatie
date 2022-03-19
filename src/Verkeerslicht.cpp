@@ -22,3 +22,11 @@ int Verkeerslicht::getCyclus() const {
 void Verkeerslicht::setCyclus(int cycle) {
     cyclus = cycle;
 }
+
+const std::__cxx11::basic_string<char> &Verkeerslicht::getBaan() const {
+    return baan;
+}
+
+void Verkeerslicht::setBaan(const std::__cxx11::basic_string<char> &baan) {
+    Verkeerslicht::baan = baan;
+}

@@ -222,32 +222,56 @@ src/Voertuig.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Verkeerssituatie_debug.dir\build.make CMakeFiles/Verkeerssituatie_debug.dir/src/Voertuig.cpp.s
 .PHONY : src/Voertuig.cpp.s
 
-src/parsers/Verkeerssituatieparser.obj: src/parsers/Verkeerssituatieparser.cpp.obj
-.PHONY : src/parsers/Verkeerssituatieparser.obj
+src/parsers/Verkeersparser.obj: src/parsers/Verkeersparser.cpp.obj
+.PHONY : src/parsers/Verkeersparser.obj
 
 # target to build an object file
-src/parsers/Verkeerssituatieparser.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Verkeerssituatie.dir\build.make CMakeFiles/Verkeerssituatie.dir/src/parsers/Verkeerssituatieparser.cpp.obj
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Verkeerssituatie_debug.dir\build.make CMakeFiles/Verkeerssituatie_debug.dir/src/parsers/Verkeerssituatieparser.cpp.obj
-.PHONY : src/parsers/Verkeerssituatieparser.cpp.obj
+src/parsers/Verkeersparser.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Verkeerssituatie.dir\build.make CMakeFiles/Verkeerssituatie.dir/src/parsers/Verkeersparser.cpp.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Verkeerssituatie_debug.dir\build.make CMakeFiles/Verkeerssituatie_debug.dir/src/parsers/Verkeersparser.cpp.obj
+.PHONY : src/parsers/Verkeersparser.cpp.obj
 
-src/parsers/Verkeerssituatieparser.i: src/parsers/Verkeerssituatieparser.cpp.i
-.PHONY : src/parsers/Verkeerssituatieparser.i
+src/parsers/Verkeersparser.i: src/parsers/Verkeersparser.cpp.i
+.PHONY : src/parsers/Verkeersparser.i
 
 # target to preprocess a source file
-src/parsers/Verkeerssituatieparser.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Verkeerssituatie.dir\build.make CMakeFiles/Verkeerssituatie.dir/src/parsers/Verkeerssituatieparser.cpp.i
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Verkeerssituatie_debug.dir\build.make CMakeFiles/Verkeerssituatie_debug.dir/src/parsers/Verkeerssituatieparser.cpp.i
-.PHONY : src/parsers/Verkeerssituatieparser.cpp.i
+src/parsers/Verkeersparser.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Verkeerssituatie.dir\build.make CMakeFiles/Verkeerssituatie.dir/src/parsers/Verkeersparser.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Verkeerssituatie_debug.dir\build.make CMakeFiles/Verkeerssituatie_debug.dir/src/parsers/Verkeersparser.cpp.i
+.PHONY : src/parsers/Verkeersparser.cpp.i
 
-src/parsers/Verkeerssituatieparser.s: src/parsers/Verkeerssituatieparser.cpp.s
-.PHONY : src/parsers/Verkeerssituatieparser.s
+src/parsers/Verkeersparser.s: src/parsers/Verkeersparser.cpp.s
+.PHONY : src/parsers/Verkeersparser.s
 
 # target to generate assembly for a file
-src/parsers/Verkeerssituatieparser.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Verkeerssituatie.dir\build.make CMakeFiles/Verkeerssituatie.dir/src/parsers/Verkeerssituatieparser.cpp.s
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Verkeerssituatie_debug.dir\build.make CMakeFiles/Verkeerssituatie_debug.dir/src/parsers/Verkeerssituatieparser.cpp.s
-.PHONY : src/parsers/Verkeerssituatieparser.cpp.s
+src/parsers/Verkeersparser.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Verkeerssituatie.dir\build.make CMakeFiles/Verkeerssituatie.dir/src/parsers/Verkeersparser.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Verkeerssituatie_debug.dir\build.make CMakeFiles/Verkeerssituatie_debug.dir/src/parsers/Verkeersparser.cpp.s
+.PHONY : src/parsers/Verkeersparser.cpp.s
+
+src/parsers/VerkeerssituatieParser.obj: src/parsers/VerkeerssituatieParser.cpp.obj
+.PHONY : src/parsers/VerkeerssituatieParser.obj
+
+# target to build an object file
+src/parsers/VerkeerssituatieParser.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Verkeerssituatie.dir\build.make CMakeFiles/Verkeerssituatie.dir/src/parsers/VerkeerssituatieParser.cpp.obj
+.PHONY : src/parsers/VerkeerssituatieParser.cpp.obj
+
+src/parsers/VerkeerssituatieParser.i: src/parsers/VerkeerssituatieParser.cpp.i
+.PHONY : src/parsers/VerkeerssituatieParser.i
+
+# target to preprocess a source file
+src/parsers/VerkeerssituatieParser.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Verkeerssituatie.dir\build.make CMakeFiles/Verkeerssituatie.dir/src/parsers/VerkeerssituatieParser.cpp.i
+.PHONY : src/parsers/VerkeerssituatieParser.cpp.i
+
+src/parsers/VerkeerssituatieParser.s: src/parsers/VerkeerssituatieParser.cpp.s
+.PHONY : src/parsers/VerkeerssituatieParser.s
+
+# target to generate assembly for a file
+src/parsers/VerkeerssituatieParser.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Verkeerssituatie.dir\build.make CMakeFiles/Verkeerssituatie.dir/src/parsers/VerkeerssituatieParser.cpp.s
+.PHONY : src/parsers/VerkeerssituatieParser.cpp.s
 
 src/parsers/parser.obj: src/parsers/parser.cpp.obj
 .PHONY : src/parsers/parser.obj
@@ -295,9 +319,12 @@ help:
 	@echo ... src/Voertuig.obj
 	@echo ... src/Voertuig.i
 	@echo ... src/Voertuig.s
-	@echo ... src/parsers/Verkeerssituatieparser.obj
-	@echo ... src/parsers/Verkeerssituatieparser.i
-	@echo ... src/parsers/Verkeerssituatieparser.s
+	@echo ... src/parsers/Verkeersparser.obj
+	@echo ... src/parsers/Verkeersparser.i
+	@echo ... src/parsers/Verkeersparser.s
+	@echo ... src/parsers/VerkeerssituatieParser.obj
+	@echo ... src/parsers/VerkeerssituatieParser.i
+	@echo ... src/parsers/VerkeerssituatieParser.s
 	@echo ... src/parsers/parser.obj
 	@echo ... src/parsers/parser.i
 	@echo ... src/parsers/parser.s

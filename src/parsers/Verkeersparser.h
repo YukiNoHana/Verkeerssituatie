@@ -13,7 +13,7 @@
 #include "../Voertuig.h"
 
 
-class Verkeerssituatieparser {
+class Verkeersparser:public parser {
 private:
     std::string readElement(TiXmlElement *elem, const char* attr);
     Voertuig* voertuig;
@@ -21,10 +21,20 @@ private:
     Verkeerslicht* verkeerslicht;
 
 public:
-    Verkeerssituatieparser();
-    virtual ~Verkeerssituatieparser();
+    Verkeersparser();
+    virtual ~Verkeersparser();
 
     Voertuig* parseVoertuig(TiXmlElement *elem);
+
+    Voertuig* getVoertuig();
+
+    Baan* parseBaan(TiXmlElement* elem);
+
+    Baan* getBaan();
+
+    Verkeerslicht* parseVerkeerslicht(TiXmlElement* elem);
+
+    Verkeerslicht* getVerkeerslicht();
 
 
 };

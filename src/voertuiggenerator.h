@@ -11,7 +11,7 @@ private:
     int frequentie;
 public:
     voertuiggenerator();
-    std::int getFrequentie() const;
+    int getFrequentie() const;
     void setFrequentie(std::int freq);
 
     virtual ~voertuiggenerator();

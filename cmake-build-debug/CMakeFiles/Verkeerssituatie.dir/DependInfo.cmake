@@ -11,7 +11,8 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "C:/Users/misak/Documents/Project Software engineering/Maaknietuit/src/Baan.cpp" "C:/Users/misak/Documents/Project Software engineering/Maaknietuit/cmake-build-debug/CMakeFiles/Verkeerssituatie.dir/src/Baan.cpp.obj"
   "C:/Users/misak/Documents/Project Software engineering/Maaknietuit/src/Library.cpp" "C:/Users/misak/Documents/Project Software engineering/Maaknietuit/cmake-build-debug/CMakeFiles/Verkeerssituatie.dir/src/Library.cpp.obj"
   "C:/Users/misak/Documents/Project Software engineering/Maaknietuit/src/Voertuig.cpp" "C:/Users/misak/Documents/Project Software engineering/Maaknietuit/cmake-build-debug/CMakeFiles/Verkeerssituatie.dir/src/Voertuig.cpp.obj"
-  "C:/Users/misak/Documents/Project Software engineering/Maaknietuit/src/parsers/Verkeerssituatieparser.cpp" "C:/Users/misak/Documents/Project Software engineering/Maaknietuit/cmake-build-debug/CMakeFiles/Verkeerssituatie.dir/src/parsers/Verkeerssituatieparser.cpp.obj"
+  "C:/Users/misak/Documents/Project Software engineering/Maaknietuit/src/parsers/Verkeersparser.cpp" "C:/Users/misak/Documents/Project Software engineering/Maaknietuit/cmake-build-debug/CMakeFiles/Verkeerssituatie.dir/src/parsers/Verkeersparser.cpp.obj"
+  "C:/Users/misak/Documents/Project Software engineering/Maaknietuit/src/parsers/VerkeerssituatieParser.cpp" "C:/Users/misak/Documents/Project Software engineering/Maaknietuit/cmake-build-debug/CMakeFiles/Verkeerssituatie.dir/src/parsers/VerkeerssituatieParser.cpp.obj"
   "C:/Users/misak/Documents/Project Software engineering/Maaknietuit/src/parsers/parser.cpp" "C:/Users/misak/Documents/Project Software engineering/Maaknietuit/cmake-build-debug/CMakeFiles/Verkeerssituatie.dir/src/parsers/parser.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")

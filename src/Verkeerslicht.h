@@ -6,9 +6,9 @@
 #define UNTITLED19_VERKEERSLICHT_H
 
 
-class Baan;
 class Verkeerslicht{
 private:
+    std::string baan;
     int positie;
     int cyclus;
 public:
@@ -17,6 +17,10 @@ public:
     void setPositie(int pos);
     int getCyclus() const;
     void setCyclus(int cycle);
+
+    const std::string &getBaan() const;
+
+    void setBaan(const std::string &baan);
 
 
     virtual ~Verkeerslicht();
