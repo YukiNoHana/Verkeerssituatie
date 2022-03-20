@@ -20,7 +20,7 @@ void parseBanen::parseBaantje(TiXmlElement* elem) {
         std::string elemName = elem->Value();
         if (elemName == "BAAN") {
             std::string tempA = elem->GetText();
-            for (int i = 1; i < banen->size(); i++) {
+            for (unsigned int i = 1; i < banen->size(); i++) {
                 banen->push_back(road);
             }
         }

@@ -6,35 +6,13 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/misak/Documents/Project Software engineering/Maaknietuit/src/Baan.cpp
-Baan.h
-C:/Users/misak/Documents/Project Software engineering/Maaknietuit/src/Baan.h
-
 C:/Users/misak/Documents/Project Software engineering/Maaknietuit/src/Baan.h
 iostream
 -
 string
 -
 
-C:/Users/misak/Documents/Project Software engineering/Maaknietuit/src/Library.cpp
-sstream
--
-tinyxml_2_6_2/tinyxml/tinyxml.h
-C:/Users/misak/Documents/Project Software engineering/Maaknietuit/src/tinyxml_2_6_2/tinyxml/tinyxml.h
-Voertuig.h
-C:/Users/misak/Documents/Project Software engineering/Maaknietuit/src/Voertuig.h
-Baan.h
-C:/Users/misak/Documents/Project Software engineering/Maaknietuit/src/Baan.h
-Verkeerslicht.h
 C:/Users/misak/Documents/Project Software engineering/Maaknietuit/src/Verkeerslicht.h
-
-C:/Users/misak/Documents/Project Software engineering/Maaknietuit/src/Verkeerslicht.h
-
-C:/Users/misak/Documents/Project Software engineering/Maaknietuit/src/Voertuig.cpp
-Voertuig.h
-C:/Users/misak/Documents/Project Software engineering/Maaknietuit/src/Voertuig.h
-iostream
--
 
 C:/Users/misak/Documents/Project Software engineering/Maaknietuit/src/Voertuig.h
 iostream

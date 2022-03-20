@@ -21,7 +21,7 @@ void parseVoertuigen::parseVoertuigje(TiXmlElement* elem){
         std::string elemName = elem->Value();
         if (elemName == "VERKEERSLICHT") {
             std::string tempA = elem->GetText();
-            for (int i = 1; i < voertuigen->size(); i++) {
+            for (unsigned int i = 1; i < voertuigen->size(); i++) {
                 voertuigen->push_back(vroomvroom);
             }
         }
