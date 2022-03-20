@@ -18,9 +18,11 @@ public:
 
     const std::string &getBaan() const;
 
-    void setBaan(const std::string &baan);
+    void setBaan(const std::string &baantje);
 
     virtual ~Voertuig();
+
+    std::string getInfo();
 
 };
 

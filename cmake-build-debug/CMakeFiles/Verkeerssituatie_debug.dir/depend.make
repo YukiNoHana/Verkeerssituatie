@@ -12,15 +12,14 @@ CMakeFiles/Verkeerssituatie_debug.dir/src/Library.cpp.obj: \
  ../src/tinyxml_2_6_2/tinyxml/tinystr.h \
  ../src/tinyxml_2_6_2/tinyxml/tinyxml.h
 CMakeFiles/Verkeerssituatie_debug.dir/src/Voertuig.cpp.obj: \
- ../src/Baan.h \
  ../src/Voertuig.cpp \
  ../src/Voertuig.h
-CMakeFiles/Verkeerssituatie_debug.dir/src/parsers/Verkeerssituatieparser.cpp.obj: \
+CMakeFiles/Verkeerssituatie_debug.dir/src/parsers/Verkeersparser.cpp.obj: \
  ../src/Baan.h \
  ../src/Verkeerslicht.h \
  ../src/Voertuig.h \
- ../src/parsers/Verkeerssituatieparser.cpp \
- ../src/parsers/Verkeerssituatieparser.h \
+ ../src/parsers/Verkeersparser.cpp \
+ ../src/parsers/Verkeersparser.h \
  ../src/parsers/parser.h \
  ../src/tinyxml_2_6_2/tinyxml/tinystr.h \
  ../src/tinyxml_2_6_2/tinyxml/tinyxml.h

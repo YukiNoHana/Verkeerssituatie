@@ -30,3 +30,11 @@ const std::__cxx11::basic_string<char> &Verkeerslicht::getBaan() const {
 void Verkeerslicht::setBaan(const std::__cxx11::basic_string<char> &baan) {
     Verkeerslicht::baan = baan;
 }
+
+std::string Verkeerslicht::getInfo() {
+    std::string lichtje;
+    lichtje += getBaan();
+    lichtje += getCyclus();
+    lichtje += getPositie();
+    return lichtje;
+}

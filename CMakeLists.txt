@@ -12,7 +12,7 @@ include_directories(gtest/include)
 link_directories(gtest/lib)
 
 # Set source files for RELEASE target
-set(RELEASE_SOURCE_FILES src/Voertuig.cpp src/Voertuig.h src/Baan.cpp src/Baan.h src/Library.cpp src/parsers/Verkeersparser.cpp src/parsers/Verkeersparser.h src/parsers/parser.cpp src/parsers/parser.h src/Standaard_Notities.h src/parsers/VerkeerssituatieParser.cpp src/parsers/VerkeerssituatieParser.h)
+set(RELEASE_SOURCE_FILES src/Voertuig.cpp src/Voertuig.h src/Baan.cpp src/Baan.h src/Library.cpp src/parsers/Verkeersparser.cpp src/parsers/Verkeersparser.h src/parsers/parser.cpp src/parsers/parser.h src/Standaard_Notities.h src/parsers/parseBanen.cpp src/parsers/parseBanen.h src/parsers/parseVerkeerslicht.cpp src/parsers/parseVerkeerslicht.h src/parsers/parseVoertuigen.cpp src/parsers/parseVoertuigen.h)
 
 # Set source files for DEBUG target
 set(DEBUG_SOURCE_FILES src/Voertuig.cpp src/Voertuig.h src/Baan.cpp src/Baan.h src/Library.cpp src/parsers/Verkeersparser.cpp src/parsers/Verkeersparser.h src/parsers/parser.cpp src/parsers/parser.h)

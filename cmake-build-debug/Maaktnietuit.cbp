@@ -157,10 +157,22 @@
 			<Option target="Verkeerssituatie"/>
 			<Option target="Verkeerssituatie_debug"/>
 		</Unit>
-		<Unit filename="C:/Users/misak/Documents/Project Software engineering/Maaknietuit/src/parsers/VerkeerssituatieParser.cpp">
+		<Unit filename="C:/Users/misak/Documents/Project Software engineering/Maaknietuit/src/parsers/parseBanen.cpp">
 			<Option target="Verkeerssituatie"/>
 		</Unit>
-		<Unit filename="C:/Users/misak/Documents/Project Software engineering/Maaknietuit/src/parsers/VerkeerssituatieParser.h">
+		<Unit filename="C:/Users/misak/Documents/Project Software engineering/Maaknietuit/src/parsers/parseBanen.h">
+			<Option target="Verkeerssituatie"/>
+		</Unit>
+		<Unit filename="C:/Users/misak/Documents/Project Software engineering/Maaknietuit/src/parsers/parseVerkeerslicht.cpp">
+			<Option target="Verkeerssituatie"/>
+		</Unit>
+		<Unit filename="C:/Users/misak/Documents/Project Software engineering/Maaknietuit/src/parsers/parseVerkeerslicht.h">
+			<Option target="Verkeerssituatie"/>
+		</Unit>
+		<Unit filename="C:/Users/misak/Documents/Project Software engineering/Maaknietuit/src/parsers/parseVoertuigen.cpp">
+			<Option target="Verkeerssituatie"/>
+		</Unit>
+		<Unit filename="C:/Users/misak/Documents/Project Software engineering/Maaknietuit/src/parsers/parseVoertuigen.h">
 			<Option target="Verkeerssituatie"/>
 		</Unit>
 		<Unit filename="C:/Users/misak/Documents/Project Software engineering/Maaknietuit/src/parsers/parser.cpp">

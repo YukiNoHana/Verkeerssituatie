@@ -12,15 +12,14 @@ CMakeFiles/Verkeerssituatie_debug.dir/src/Library.cpp.obj
  C:/Users/misak/Documents/Project Software engineering/Maaknietuit/src/tinyxml_2_6_2/tinyxml/tinystr.h
  C:/Users/misak/Documents/Project Software engineering/Maaknietuit/src/tinyxml_2_6_2/tinyxml/tinyxml.h
 CMakeFiles/Verkeerssituatie_debug.dir/src/Voertuig.cpp.obj
- C:/Users/misak/Documents/Project Software engineering/Maaknietuit/src/Baan.h
  C:/Users/misak/Documents/Project Software engineering/Maaknietuit/src/Voertuig.cpp
  C:/Users/misak/Documents/Project Software engineering/Maaknietuit/src/Voertuig.h
-CMakeFiles/Verkeerssituatie_debug.dir/src/parsers/Verkeerssituatieparser.cpp.obj
+CMakeFiles/Verkeerssituatie_debug.dir/src/parsers/Verkeersparser.cpp.obj
  C:/Users/misak/Documents/Project Software engineering/Maaknietuit/src/Baan.h
  C:/Users/misak/Documents/Project Software engineering/Maaknietuit/src/Verkeerslicht.h
  C:/Users/misak/Documents/Project Software engineering/Maaknietuit/src/Voertuig.h
- C:/Users/misak/Documents/Project Software engineering/Maaknietuit/src/parsers/Verkeerssituatieparser.cpp
- C:/Users/misak/Documents/Project Software engineering/Maaknietuit/src/parsers/Verkeerssituatieparser.h
+ C:/Users/misak/Documents/Project Software engineering/Maaknietuit/src/parsers/Verkeersparser.cpp
+ C:/Users/misak/Documents/Project Software engineering/Maaknietuit/src/parsers/Verkeersparser.h
  C:/Users/misak/Documents/Project Software engineering/Maaknietuit/src/parsers/parser.h
  C:/Users/misak/Documents/Project Software engineering/Maaknietuit/src/tinyxml_2_6_2/tinyxml/tinystr.h
  C:/Users/misak/Documents/Project Software engineering/Maaknietuit/src/tinyxml_2_6_2/tinyxml/tinyxml.h

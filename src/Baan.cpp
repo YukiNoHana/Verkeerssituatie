@@ -26,3 +26,11 @@ void Baan::setLengte(int lol2) {
     lengte = lol2;
 }
 
+std::string Baan::getInfo() {
+    std::string roady;
+    roady += "baan:" + getNaam();
+    roady += "lengte:";
+    roady += getLengte();
+    return roady;
+}
+

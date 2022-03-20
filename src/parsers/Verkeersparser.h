@@ -35,8 +35,6 @@ public:
     Verkeerslicht* parseVerkeerslicht(TiXmlElement* elem);
 
     Verkeerslicht* getVerkeerslicht();
-
-
 };
 
 

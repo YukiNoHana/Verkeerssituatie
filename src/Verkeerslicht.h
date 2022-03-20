@@ -21,6 +21,7 @@ public:
     const std::string &getBaan() const;
 
     void setBaan(const std::string &baan);
+    std::string getInfo();
 
 
     virtual ~Verkeerslicht();

@@ -22,8 +22,15 @@ const std::string &Voertuig::getBaan() const {
     return baan;
 }
 
-void Voertuig::setBaan(const std::string &baan) {
-    Voertuig::baan = baan;
+void Voertuig::setBaan(const std::string &baantje) {
+    Voertuig::baan = baantje;
+}
+
+std::string Voertuig::getInfo(){
+    std::string vehicle;
+    vehicle += getBaan();
+    vehicle += getPositie();
+    return vehicle;
 }
 
 //Gebruik maken van cout om te printen, je kan een integer ook printen
