@@ -15,3 +15,13 @@ std::string int_to_string(int integer) {
     new_string = convert.str();
     return new_string;
 }
+void print_voertuig() {
+    Voertuig bmw;
+    std::cout << "Tijd:" << " " << '\n';
+    std::cout << "positie:" << " " << bmw.getPositie() << '\n';
+    std::cout << "baan:" << " " << bmw.getBaan() << std::endl;
+}
+
+void simple_sim() {
+
+}

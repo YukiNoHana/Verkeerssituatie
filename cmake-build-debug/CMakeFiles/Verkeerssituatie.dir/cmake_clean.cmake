@@ -1,14 +1,18 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/Verkeerssituatie.dir/src/Baan.cpp.obj"
-  "CMakeFiles/Verkeerssituatie.dir/src/Library.cpp.obj"
-  "CMakeFiles/Verkeerssituatie.dir/src/Voertuig.cpp.obj"
-  "CMakeFiles/Verkeerssituatie.dir/src/parsers/Verkeersparser.cpp.obj"
-  "CMakeFiles/Verkeerssituatie.dir/src/parsers/VerkeerssituatieParser.cpp.obj"
-  "CMakeFiles/Verkeerssituatie.dir/src/parsers/parser.cpp.obj"
-  "Verkeerssituatie.exe"
-  "Verkeerssituatie.exe.manifest"
+  "CMakeFiles/Verkeerssituatie.dir/src/Baan.cpp.o"
+  "CMakeFiles/Verkeerssituatie.dir/src/Baan.cpp.o.d"
+  "CMakeFiles/Verkeerssituatie.dir/src/Library.cpp.o"
+  "CMakeFiles/Verkeerssituatie.dir/src/Library.cpp.o.d"
+  "CMakeFiles/Verkeerssituatie.dir/src/Voertuig.cpp.o"
+  "CMakeFiles/Verkeerssituatie.dir/src/Voertuig.cpp.o.d"
+  "CMakeFiles/Verkeerssituatie.dir/src/parsers/Verkeersparser.cpp.o"
+  "CMakeFiles/Verkeerssituatie.dir/src/parsers/Verkeersparser.cpp.o.d"
+  "CMakeFiles/Verkeerssituatie.dir/src/parsers/VerkeerssituatieParser.cpp.o"
+  "CMakeFiles/Verkeerssituatie.dir/src/parsers/VerkeerssituatieParser.cpp.o.d"
+  "CMakeFiles/Verkeerssituatie.dir/src/parsers/parser.cpp.o"
+  "CMakeFiles/Verkeerssituatie.dir/src/parsers/parser.cpp.o.d"
+  "Verkeerssituatie"
   "Verkeerssituatie.pdb"
-  "libVerkeerssituatie.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.
